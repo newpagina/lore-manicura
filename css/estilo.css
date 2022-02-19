@@ -57,6 +57,10 @@
     
 }
 
+.navegador:visited¨{
+    background-color: red;
+}
+
 .comunicate{
     color: #ff61ed;
     font-family: Bauhaus 93;
@@ -74,7 +78,7 @@
   }
   
   .wasap:hover{
-      background-color:black;
+     background: RED;
   }
   
   .mapa{
@@ -86,6 +90,11 @@
       float: left;
      
   }
+
+  .mapa:hover{
+    background-color:RED;
+
+  }
   
   .globo{
       width: 80px;
@@ -94,6 +103,12 @@
      
   }
   
+  .navegadorabajo{
+      float: inline-end;
+      margin: 60px ;
+     font-size:  35px;
+     margin: 5px;
+  }
 
-
-
+  
+ 
